@@ -34,7 +34,7 @@ ds_jobs = pd.read_csv('customer_train.csv', sep = ',')
 ```
 
 ```Python
-# Use the info method to better the DataFrame
+# Use the info method to better understand the DataFrame
 print(ds_jobs.info())
 ```
 ```
